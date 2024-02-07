@@ -5,7 +5,7 @@ import javax.print.attribute.standard.Media;
 public class Main {
     public static void main(String[] args) {
      //   Engine car=new Car();
-
+//what can be accessed is defined by the left-hand side and which version can be accessed is defined by the right-hand side.
        // car.start();car.stop();//it decides at runtime which method to be run
 // Car.a;
         //Accelerator fast=new Car() ;
@@ -36,5 +36,7 @@ mstCar.stopMusic();
 //interfaces also help in implementing hybrid inheritance, where two unrelated classes can implement a single interface class.
 //a interface can extend other interfaces only
 //abstract class can extend Java class and implement multiple interfaces as well.
+//interfaces check at runtime
+
 
 
