@@ -19,3 +19,12 @@ mstCar.stopMusic();
 
     }
 }
+//in interface methods are always abstract and variables can be final or static
+//interface allows multiple inheritance
+//a class maintains information using an instance variable but the interface does not
+//cannot create objects of interface
+//interface vs abstract
+// interface only has abstract methods whereas abstract classes can have both abstract and normal methods.
+//in abstract classes we cannot create abstract constructors
+//interfaces can have default and static methods as well
+//in interfaces variables are final whereas in abstract classes they can be final or nonfinal
