@@ -37,6 +37,8 @@ mstCar.stopMusic();
 //a interface can extend other interfaces only
 //abstract class can extend Java class and implement multiple interfaces as well.
 //interfaces check at runtime
+//static interface methods should always have a body because we know that static methods cannot be inherited. After all, inherited methods are dependent on objects and static are not dependent on objects that why cannot be inherited.
+//the overridden methods must have better access modifiers or the same access modifier.
 
 
 
