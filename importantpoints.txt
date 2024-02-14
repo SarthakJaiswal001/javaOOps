@@ -1,0 +1,8 @@
+extends vs implements
+In extend it is not compulsory to override every method but in implements it is compulsory to override every abstract method of the interface.
+To access the interface methods, the interface must be “implemented” by another class with the implements keyword and the methods need to be implemented in the class which is inheriting the properties of the interface. Since an interface does not have the implementation of the methods, a class can implement any number of interfaces at a time.
+We cannot create objects of abstract classes because there is no body present in the abstract methods present in abstract classes.
+It is compulsory to override abstract methods.
+In abstract classes, there can be abstract methods as well as normal methods. 
+Abstract classes can have constructors, but they cannot be instantiated directly. The constructors are used when a concrete subclass is created.
+In interface variables can be final or static
